@@ -1,5 +1,7 @@
 # soap_bigdata
 
+https://www.youtube.com/watch?v=11iGyrvBhzc
+
 
 wsdl / mybatis 1.0
 
